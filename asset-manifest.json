@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/CookbookProyect/src/App/static/js/main.4add132c.js",
-    "static/js/453.d396f933.chunk.js": "/CookbookProyect/src/App/static/js/453.d396f933.chunk.js",
-    "static/media/logo.svg": "/CookbookProyect/src/App/static/media/logo.2c773ac05d7bdf9c7dfd4a9813015559.svg",
-    "static/media/menu.svg": "/CookbookProyect/src/App/static/media/menu.19e42fefad62bd1b52cefc9706109f9a.svg",
-    "index.html": "/CookbookProyect/src/App/index.html",
-    "static/media/add.svg": "/CookbookProyect/src/App/static/media/add.d4de65021f85ef6c7095f6fae487eaf7.svg",
-    "static/media/search.svg": "/CookbookProyect/src/App/static/media/search.7480c13af2b27775d97d5caa73acdd78.svg",
-    "static/media/remove.svg": "/CookbookProyect/src/App/static/media/remove.f712cf9cc8c3f85b36621933e77fcb23.svg",
-    "main.4add132c.js.map": "/CookbookProyect/src/App/static/js/main.4add132c.js.map",
-    "453.d396f933.chunk.js.map": "/CookbookProyect/src/App/static/js/453.d396f933.chunk.js.map"
+    "main.js": "/CookbookProyect/static/js/main.99b81330.js",
+    "static/js/453.d396f933.chunk.js": "/CookbookProyect/static/js/453.d396f933.chunk.js",
+    "static/media/logo.svg": "/CookbookProyect/static/media/logo.2c773ac05d7bdf9c7dfd4a9813015559.svg",
+    "static/media/menu.svg": "/CookbookProyect/static/media/menu.19e42fefad62bd1b52cefc9706109f9a.svg",
+    "index.html": "/CookbookProyect/index.html",
+    "static/media/add.svg": "/CookbookProyect/static/media/add.d4de65021f85ef6c7095f6fae487eaf7.svg",
+    "static/media/search.svg": "/CookbookProyect/static/media/search.7480c13af2b27775d97d5caa73acdd78.svg",
+    "static/media/remove.svg": "/CookbookProyect/static/media/remove.f712cf9cc8c3f85b36621933e77fcb23.svg",
+    "main.99b81330.js.map": "/CookbookProyect/static/js/main.99b81330.js.map",
+    "453.d396f933.chunk.js.map": "/CookbookProyect/static/js/453.d396f933.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4add132c.js"
+    "static/js/main.99b81330.js"
   ]
 }
