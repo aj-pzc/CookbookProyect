@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/CookbookProyect-RCA/static/js/main.ce82cbde.js",
+    "static/js/453.d396f933.chunk.js": "/CookbookProyect-RCA/static/js/453.d396f933.chunk.js",
+    "static/media/logo.svg": "/CookbookProyect-RCA/static/media/logo.2c773ac05d7bdf9c7dfd4a9813015559.svg",
+    "static/media/menu.svg": "/CookbookProyect-RCA/static/media/menu.19e42fefad62bd1b52cefc9706109f9a.svg",
+    "index.html": "/CookbookProyect-RCA/index.html",
+    "static/media/add.svg": "/CookbookProyect-RCA/static/media/add.d4de65021f85ef6c7095f6fae487eaf7.svg",
+    "static/media/search.svg": "/CookbookProyect-RCA/static/media/search.7480c13af2b27775d97d5caa73acdd78.svg",
+    "static/media/remove.svg": "/CookbookProyect-RCA/static/media/remove.f712cf9cc8c3f85b36621933e77fcb23.svg",
+    "main.ce82cbde.js.map": "/CookbookProyect-RCA/static/js/main.ce82cbde.js.map",
+    "453.d396f933.chunk.js.map": "/CookbookProyect-RCA/static/js/453.d396f933.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ce82cbde.js"
+  ]
+}
