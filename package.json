@@ -1,7 +1,7 @@
 {
   "name": "recetario-app",
   "version": "0.1.0",
-  "homepage": "https://aj-pzc.github.io/CookbookProyect",
+  "homepage": "https://aj-pzc.github.io/CookbookProyect/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.11.2",
