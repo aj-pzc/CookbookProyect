@@ -1,4 +1,4 @@
-### **2. CookBook Web App**
+### **CookBook Web App**
 
 ```markdown
 # CookBook Web Application 🍲
