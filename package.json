@@ -25,6 +25,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "test:coverage": "react-scripts test --coverage",
+    "typecheck": "tsc --noEmit",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
@@ -49,6 +50,10 @@
   },
   "devDependencies": {
     "@pmmmwh/react-refresh-webpack-plugin": "^0.6.2",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.126",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
     "autoprefixer": "^10.4.27",
     "gh-pages": "^6.3.0",
     "html-webpack-plugin": "^5.6.6",
@@ -57,6 +62,7 @@
     "react-scripts": "^5.0.1",
     "react-test-renderer": "^19.2.4",
     "tailwindcss": "^3.4.19",
+    "typescript": "^4.9.5",
     "webpack-dev-server": "^5.2.3"
   },
   "jest": {
@@ -66,11 +72,11 @@
       "\\.(css|less|scss|sass)$": "identity-obj-proxy"
     },
     "collectCoverageFrom": [
-      "src/**/*.{js,jsx}",
-      "!src/index.js",
-      "!src/reportWebVitals.js",
-      "!src/Redux/store.js",
-      "!src/**/*.utils.js"
+      "src/**/*.{ts,tsx}",
+      "!src/index.tsx",
+      "!src/reportWebVitals.ts",
+      "!src/Redux/store.ts",
+      "!src/**/*.utils.tsx"
     ]
   }
 }

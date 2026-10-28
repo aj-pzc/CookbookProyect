@@ -1,29 +1,34 @@
-### **CookBook Web App**
+# CookBook Web Application
 
-```markdown
-# CookBook Web Application 🍲
+Aplicación interactiva para buscar, consultar y guardar recetas usando la API de TheMealDB. La interfaz está construida con React y TypeScript.
 
-An interactive web application that connects to external REST APIs to search, fetch, and display culinary recipes in real time.
+## Características
 
-## 🚀 Features
+- Búsqueda de recetas y filtros por país o categoría.
+- Detalle de recetas con ingredientes e instrucciones.
+- Favoritos persistidos en el almacenamiento local del navegador.
+- Diseño adaptable a escritorio y dispositivos móviles.
 
-- **Asynchronous API Integration:** Uses JavaScript Fetch API to query external recipe databases dynamically.
-- **Dynamic DOM Rendering:** Instant interface updates without page reloads.
-- **Responsive Layout:** Mobile-first user experience designed with modern CSS Flexbox and Grid.
-- **Client-Side Error Handling:** Graceful handling of network delays and empty search queries.
+## Tecnologías
 
-## 🛠️ Tech Stack
+- TypeScript, React y React Router
+- Redux Toolkit y React Redux
+- styled-components
+- API REST de TheMealDB
 
-- **Frontend:** JavaScript (ES6+), HTML5, CSS3
-- **Data Source:** External RESTful APIs
-- **Hosting:** GitHub Pages
+## Empezar
 
-## 🔗 Live Demo
+Necesitas Node.js y npm. Instala las dependencias y ejecuta la aplicación:
 
-Experience the live app here: [CookBook Web App](https://aj-pzc.github.io/CookbookProyect/)
-
-## 🏁 Getting Started
-
-Simply open `index.html` in your browser or clone the repository:
 ```bash
-git clone [https://github.com/aj-pzc/CookbookProyect.git](https://github.com/aj-pzc/CookbookProyect.git)
+git clone https://github.com/aj-pzc/CookbookProyect.git
+cd CookbookProyect
+npm install
+npm start
+```
+
+Usa `npm run build` para crear la versión de producción, `npm test` para ejecutar las pruebas y `npm run typecheck` para comprobar los tipos.
+
+## Demo
+
+[CookBook Web App](https://aj-pzc.github.io/CookbookProyect/)
