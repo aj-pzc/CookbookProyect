@@ -1,34 +1,39 @@
 # CookBook Web Application
 
-Aplicación interactiva para buscar, consultar y guardar recetas usando la API de TheMealDB. La interfaz está construida con React y TypeScript.
+An interactive web application to search, fetch, and save culinary recipes using TheMealDB API. The interface is built with React and TypeScript.
 
-## Características
+## 🚀 Features
 
-- Búsqueda de recetas y filtros por país o categoría.
-- Detalle de recetas con ingredientes e instrucciones.
-- Favoritos persistidos en el almacenamiento local del navegador.
-- Diseño adaptable a escritorio y dispositivos móviles.
+- **Recipe Search & Filters:** Search for recipes and filter them dynamically by country or category.
+- **Detailed Recipe Views:** Complete breakdown of recipes featuring full ingredients and cooking instructions.
+- **Persistent Favorites:** Save your favorite recipes locally using the browser's LocalStorage.
+- **Responsive Layout:** Adaptive user experience designed for both desktop and mobile devices.
 
-## Tecnologías
+## 🛠️ Tech Stack
 
-- TypeScript, React y React Router
-- Redux Toolkit y React Redux
-- styled-components
-- API REST de TheMealDB
+- **Frontend:** TypeScript, React, React Router
+- **State Management & Styling:** Redux Toolkit, React Redux, styled-components
+- **Data Source:** TheMealDB REST API
+- **Hosting:** GitHub Pages
 
-## Empezar
+## 🔗 Live Demo
 
-Necesitas Node.js y npm. Instala las dependencias y ejecuta la aplicación:
+Experience the live app here: [CookBook Web App](https://aj-pzc.github.io/CookbookProyect/)
+
+## 🏁 Getting Started
+
+You will need Node.js and npm installed. Clone the repository and run the application locally:
 
 ```bash
-git clone https://github.com/aj-pzc/CookbookProyect.git
+git clone https://github.com
 cd CookbookProyect
 npm install
 npm start
 ```
 
-Usa `npm run build` para crear la versión de producción, `npm test` para ejecutar las pruebas y `npm run typecheck` para comprobar los tipos.
+### Additional Commands
 
-## Demo
+- **Production Build:** Use `npm run build` to create a production-ready bundle.
+- **Testing:** Run `npm test` to execute the test suite.
+- **Type Checking:** Run `npm run typecheck` to verify TypeScript types.
 
-[CookBook Web App](https://aj-pzc.github.io/CookbookProyect/)
